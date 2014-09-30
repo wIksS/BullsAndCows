@@ -1,0 +1,1 @@
+C:\Users\Виктор\Desktop\WebServicesExam\BullsAndCows\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.csprojResolveAssemblyReference.cache
